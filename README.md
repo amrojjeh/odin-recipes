@@ -5,3 +5,4 @@ Very basic HTML project.
 Not much since I have done this before but it's fun to do nonetheless!
 
 # Reflection
+Speedrun: 1h. Probably not a good record but I'll go with it.
